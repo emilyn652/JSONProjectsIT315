@@ -1,0 +1,21 @@
+{
+  "HikingTrails":
+  [
+    {"Name":"Olivia","Type":"Feminine","Origin":"Latin","Meaning":"Olive tree","Website":"https://www.thebump.com/b/olivia-baby-name"},
+    {"Name":"Charlotte","Type":"Feminine","Origin":"French","Meaning":"Free man","Website":"https://www.thebump.com/b/charlotte-baby-name"},
+    {"Name":"Ava","Type":"Feminine","Origin":"Latin","Meaning":"Bird, life","Website":"https://www.thebump.com/b/ava-baby-name"},
+    {"Name":"Evelyn","Type":"Feminine","Origin":"British","Meaning":"Desired","Website":"https://www.thebump.com/b/evelyn-baby-name"},
+    {"Name":"Victoria","Type":"Feminine","Origin":"Latin","Meaning":"Victory","Website":"https://www.thebump.com/b/victoria-baby-name"},
+    {"Name":"Olivia","Type":"Masculine","Origin":"Latin","Meaning":1,"Website":"https://www.thebump.com/b/olivia-baby-name"},
+    {"Name":"Olivia","Type":"Masculine","Origin":"Latin","Meaning":1,"Website":"https://www.thebump.com/b/olivia-baby-name"},
+    {"Name":"Olivia","Type":"Masculine","Origin":"Latin","Meaning":1,"Website":"https://www.thebump.com/b/olivia-baby-name"},
+    {"Name":"Olivia","Type":"Masculine","Origin":"Latin","Meaning":1,"Website":"https://www.thebump.com/b/olivia-baby-name"},
+    {"Name":"Olivia","Type":"Masculine","Origin":"Latin","Meaning":1,"Website":"https://www.thebump.com/b/olivia-baby-name"},
+    {"Name":"Olivia","Type":"Unisex","Origin":"Latin","Meaning":1,"Website":"https://www.thebump.com/b/olivia-baby-name"},
+    {"Name":"Olivia","Type":"Unisex","Origin":"Latin","Meaning":1,"Website":"https://www.thebump.com/b/olivia-baby-name"},
+    {"Name":"Olivia","Type":"Unisex","Origin":"Latin","Meaning":1,"Website":"https://www.thebump.com/b/olivia-baby-name"},
+    {"Name":"Olivia","Type":"Unisex","Origin":"Latin","Meaning":1,"Website":"https://www.thebump.com/b/olivia-baby-name"},
+    {"Name":"Olivia","Type":"Unisex","Origin":"Latin","Meaning":1,"Website":"https://www.thebump.com/b/olivia-baby-name"},
+  ],
+  "Status":"OK"
+}
